@@ -1,0 +1,9 @@
+3-
+a) a sequência é de número impares,  próximo: 9
+b) a sequência mostra o dobro do anterior, próximo : 128
+c) a sequência é o quadrado dos números naturais, começando com 0 (0*0=0 ; 1*1 =1; 2*2=4 e assim por diante), próximo : 49
+d) a sequência parece ser o quadrado dos números pares (sendo o próximo o quadrado de 10),  próximo: 100 
+e) sequência de Fibonacci, o próximo: 13
+f) a sequência é inconstante, do primeiro para o segundo somou 8, do segundo para o terceiro somou 2,
+mas do terceiro pro quarto somou 4 e depois os outros são somados em 1, então se a sequencoa se manter,
+conclui-se que o próximo será somado em 1, próximo: 20

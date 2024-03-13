@@ -1,0 +1,6 @@
+4- como eu sei que cada interruptor está ligado a uma lâmpada, eu coloco um interruptor ligado, e o deixo por um
+tempo acesso. depois eu o apagaria e ligaria outro e iria para a outra sala. Eu veria que uma luz está acesa,
+então é daquele interruptor aceso, então eu tocaria nos outros dois para ver qual está quente, o que tiver quente
+é daquele outro interruptor e o que estiver frio é do outro que não acendi. Se eu não conseguisse alcançar para 
+checar a temperatura, eu apenas voltaria aos interruptores, desligaria o que deixei aceso e ligaria um dos outros
+e iria para a sala das lâmpadas. Então vendo a única que não acendeu, saberia qual interruptor liga qual lâmpada.
